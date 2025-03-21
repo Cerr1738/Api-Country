@@ -106,15 +106,5 @@ Apollo Client for state management and caching.
 
 Next.js for the framework and server-side rendering.
 
-Contact
-If you have any questions or feedback, feel free to reach out:
 
-Your Name: your-email@example.com
 
-GitHub: your-username
-
-Enjoy exploring the app! 🌍
-
-Let me know if you need further customization or additional sections! 🚀
-
-New chat
